@@ -13,4 +13,4 @@
 dll放入解压版Chrome目录即可
 
 # 说明
-Shuax原版v1.5.2
+Shuax原版v1.5.1
